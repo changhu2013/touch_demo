@@ -2,7 +2,7 @@ Ext.require('Ext.Img');
 Ext.require('Ext.MessageBox');
 Ext.application({
    name : 'myApp',
-   icon : 'images/icon.png',
+   //icon : 'images/icon.png',
    glossOnIcon : false,
    //phoneStratupScreen : 'images/phone_startup.png',
    //tabletStartupScreen : 'images/tablet_startup.png',
