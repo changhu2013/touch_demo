@@ -1,0 +1,33 @@
+{
+    "items" : [{
+        "name" : "一年级",
+        "items" : [{
+            "name" : "一年级一班",
+            "items" : [{
+                "name" : "学生1",
+                "leaf" : true
+                }, {
+                "name" : "学生2",
+                "leaf" : true
+                }, {
+                "name" : "学生3",
+                "leaf" : true
+                }, {
+                "name" : "学生4",
+                "leaf" : true
+                }, {
+                "name" : "学生5",
+                "leaf" : true
+                }, {
+                "name" : "学生6",
+                "leaf" : true
+                }, {
+                "name" : "学生7",
+                "leaf" : true
+                }, {
+                "name" : "学生8",
+                "leaf" : true
+                }]
+            }]
+        }]
+}
